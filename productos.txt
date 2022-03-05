@@ -1,0 +1,20 @@
+[
+    {
+        "title":"Escuadra",
+        "price: 123,
+        "thumbnail":"http://www.alguna-imagen.com",
+        "id": 1
+    }
+    {
+        "title":"Calculadora",
+        "price: 456,
+        "thumbnail":"http://www.alguna-imagen.com",
+        "id": 2
+    }
+    {
+        "title":"Lapicera",
+        "price: 789,
+        "thumbnail":"http://www.alguna-imagen.com",
+        "id": 3
+    }
+]
